@@ -16,6 +16,11 @@ git clone https://github.com/swapneelparanjpe/Object-Detection.git
 cd Object-Detection
 ```
 
+### Get the dependencies
+```
+pip install -r requirements.txt
+```
+
 ### To detect objects in an image
 ```
 python img_detect.py <path_to_image_file>
