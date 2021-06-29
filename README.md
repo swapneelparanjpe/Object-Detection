@@ -1,11 +1,8 @@
 # Object-Detection
 ### Detect objects in images and videos.
 
-<br>
+### Download the weights file from here [here](https://drive.google.com/file/d/1hSi0NAHIYQRb0YpXUL8E217GnhFaQBSU/view?usp=sharing)
 
-### Download the yolov3.weights file from here [here](https://drive.google.com/file/d/1hSi0NAHIYQRb0YpXUL8E217GnhFaQBSU/view?usp=sharing)
-
-<br>
 
 ### Clone the repository
 ```
